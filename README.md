@@ -32,5 +32,5 @@ The purpose of this analysis is to develop a deep learning model using a neural 
 ## Summary:
 
 The deep learning model achieved the target performance with a test accuracy of approximately 74.09%. The model was designed to handle the classification problem effectively, incorporating preprocessing steps to address outliers and categorical variables.
-In summary, the deep learning model is a viable solution for the classification problem at hand. However, exploring alternative models could provide a more comprehensive understanding of the dataset and potentially enhance predictive performance.
+In summary, the deep learning model is a viable solution for the classification problem at hand. 
 
